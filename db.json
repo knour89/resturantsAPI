@@ -1,0 +1,208 @@
+{
+  "resturants": [
+    {
+      "id": 1,
+      "name": "Singary Fish",
+      "category": "Seafood",
+      "img": "https://images.deliveryhero.io/image/otlob/restaurants/200_636826862187178854.jpg",
+      "configure": {
+        "color": "#0E75B8",
+        "delivery": "free",
+        "status": "open",
+        "delivery-time": "70"
+      },
+      "menuItems": [
+        {
+          "id": 1,
+          "name": "Boneless Seafood Soup",
+          "desc": "Fish fillet, calamari and shrimp",
+          "price": 60
+        },
+        {
+          "id": 2,
+          "name": "Seafood Pasta",
+          "desc": "Shrimp, squid and singary creamy white sauce",
+          "price": 50
+        },
+        {
+          "id": 3,
+          "name": "Mix Sandwich",
+          "desc": "Fish fillet, shrimp and squid",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Crepe One",
+      "category": "Crepes and Waffles",
+      "img": "https://images.deliveryhero.io/image/otlob/restaurants/Crepe-Logo-02_637038785926616769.jpg",
+      "configure": {
+        "color": "#F7A841",
+        "delivery": "free",
+        "status": "open",
+        "delivery-time": "60"
+      },
+      "menuItems": [
+        {
+          "id": 1,
+          "name": "Mix Chicken Crepe",
+          "desc": "Chicken hot dog, chicken burger and crunchy pane",
+          "price": 20
+        },
+        {
+          "id": 2,
+          "name": "Vegetables Pizza",
+          "desc": "Mozzarella cheese,pepper, tomatoes, olive, onion and tomato sauce",
+          "price": 40
+        },
+        {
+          "id": 3,
+          "name": "Mushroom Pizza",
+          "desc": "Mushroom,mozzarella cheese,pepper, tomatoes, olive and onion",
+          "price": 25
+        },
+        {
+          "id": 4,
+          "name": "Chicken BBQ Pizza",
+          "desc": "Chichen shawerma, mozzarella cheese, onion, bbq sauce and tomatoes sauce",
+          "price": 35
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Maison Thomas",
+      "category": "Pizza, Pasta, Sandwiches",
+      "img": "https://images.deliveryhero.io/image/otlob/restaurants/Maison_Thomas_Logo_636999482772027704.jpg",
+      "configure": {
+        "color": "#3A693B",
+        "delivery": "free",
+        "status": "closed",
+        "delivery-time": "40"
+      },
+      "menuItems": [
+        {
+          "id": 1,
+          "name": "Margarita Pizza",
+          "desc": "Mozzarella cheese, thyme and tomato sauce",
+          "price": 19
+        },
+        {
+          "id": 2,
+          "name": "Monaco Pizza",
+          "desc": "Smoked roast beef, beef salami, thyme, mozzarella cheese and tomato sauce",
+          "price": 50
+        },
+        {
+          "id": 3,
+          "name": "Fungi Pizza",
+          "desc": "Mushrooms, olives, thyme, mozzarella cheese and tomato sauce",
+          "price": 21
+        },
+        {
+          "id": 4,
+          "name": "Marinara Pizza",
+          "desc": "Calamari, shrimp, anchovies, thyme, mozzarella cheese and tomato sauce",
+          "price": 32
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Amo hosny",
+      "category": "Sandwiches, Crepes and Waffles, Oriental",
+      "img": "https://images.deliveryhero.io/image/otlob/restaurants/e1tf_sqp.jpg?v=20170911151142",
+      "configure": {
+        "color": "#F4BC4F",
+        "delivery": "free",
+        "status": "open",
+        "delivery-time": "30"
+      },
+      "menuItems": [
+        {
+          "id": 1,
+          "name": "Diesel Sandwich - 240 Gm",
+          "desc": "Mozzarella cheese, thyme and tomato sauce",
+          "price": 45
+        },
+        {
+          "id": 2,
+          "name": "Cheese Beef Burger Sandwich offer",
+          "desc": "Served with french fries and pepsi can",
+          "price": 25
+        },
+        {
+          "id": 3,
+          "name": "Medium Shish Tawook Sandwich offer",
+          "desc": "Served with french fries and pepsi can. ",
+          "price": 36
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "manoucheh",
+      "category": "Lebanese , Breakfast, Pizza",
+      "img": "https://images.deliveryhero.io/image/otlob/restaurants/logo_637038866530398878.jpg",
+      "configure": {
+        "color": "#E3091A",
+        "delivery": "free",
+        "status": "open",
+        "delivery-time": "20"
+      },
+      "menuItems": [
+        {
+          "id": 1,
+          "name": "Sojok And Jebneh Manoucheh ",
+          "desc": "Sausage, tomatoes, cheese, pickles, mustard and mayonnaise. ",
+          "price": 55
+        },
+        {
+          "id": 2,
+          "name": "Djeij Special Manoucheh",
+          "desc": "Chicken, mushrooms, green peppers, corn, pickles, cheese, garlic dip sauce and hot sauce",
+          "price": 35
+        },
+        {
+          "id": 3,
+          "name": "Djeij And Jebneh Manoucheh",
+          "desc": "Chicken, tomatoes, lettuce, cheese, pickles and garlic sauce",
+          "price": 36
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tabali",
+      "category": "Lebanese , Breakfast, Pizza",
+      "img": "https://images.deliveryhero.io/image/otlob/restaurants/e4fu_sqp.jpg",
+      "configure": {
+        "color": "#6D3F30",
+        "delivery": "free",
+        "status": "closed",
+        "delivery-time": "40"
+      },
+      "menuItems": [
+        {
+          "id": 1,
+          "name": "Original Falafel",
+          "desc": "Falafel, Arugula, tomato and sesame paste",
+          "price": 16
+        },
+        {
+          "id": 2,
+          "name": "Spicy Alexandrian Falafel",
+          "desc": "Falafel, onions, peppers and tomatoes",
+          "price": 15
+        },
+        {
+          "id": 3,
+          "name": "2 Liver Sandwiches Offer",
+          "desc": "2 liver sandwiches served in fino bread, served with french fries and coca-cola",
+          "price": 36
+        }
+      ]
+    }
+  ]
+}
